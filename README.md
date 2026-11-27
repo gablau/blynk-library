@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This fork is archived.** Its `legacy` branch (Blynk library 0.6.1 for Blynk Legacy servers)
+> continues as **[TinkerBlink Library](https://github.com/gablau/tinkerblink-library)**:
+> security fixes, current ESP8266/ESP32 cores, new boards (Pico W, UNO R4 WiFi, ESP32-S2/S3/C3/C6,
+> GIGA R1 WiFi...), TLS with your own certificate, for blynk-server 0.41.x and 0.50.x.
+> Use that repository for new projects, issues and pull requests.
+
 # Blynk C++ Library [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Build%20your%20IoT%20App%20in%20minutes,%20right%20on%20your%20smartphone!&url=https://github.com/blynkkk/blynk-library&via=blynk_app&hashtags=IoT,iOS,Android,Arduino,ESP8266,ESP32,RaspberryPi)
 
 [![GitHub version](https://img.shields.io/github/release/blynkkk/blynk-library.svg)](https://github.com/blynkkk/blynk-library/releases/latest)
